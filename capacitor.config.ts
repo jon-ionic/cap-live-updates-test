@@ -4,7 +4,7 @@ const config: CapacitorConfig = {
   appId: 'io.ionic.jon',
   appName: 'cap-live-updates-test',
   webDir: 'www',
-/*   plugins: {
+  plugins: {
     LiveUpdates: {
       appId: 'ee10ceb0',
       channel: 'Production',
@@ -12,7 +12,7 @@ const config: CapacitorConfig = {
       maxVersions: 2,
       key: 'ionic_cloud_public.pem'
     }
-  } */
+  }
 };
 
 export default config;
