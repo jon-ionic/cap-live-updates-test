@@ -1,0 +1,7 @@
+{
+  "name": "cap-live-updates-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
