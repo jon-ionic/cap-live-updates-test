@@ -4,10 +4,9 @@ const config: CapacitorConfig = {
   appId: 'io.ionic.jon',
   appName: 'cap-live-updates-test',
   webDir: 'www',
-  bundledWebRuntime: false,
   plugins: {
     LiveUpdates: {
-      appId: 'b7a8b20a',
+      appId: 'ee10ceb0',
       channel: 'Production',
       autoUpdateMethod: 'background',
       maxVersions: 2,
